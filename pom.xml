@@ -55,6 +55,37 @@
 			<version>2.52.0</version>
 		</dependency>
 
+		<!-- jbrowser -->
+
+		<dependency>
+			<groupId>com.machinepublishers</groupId>
+			<artifactId>jbrowserdriver</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+		<!-- httpcore -->
+
+
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpcore</artifactId>
+			<version>4.4.4</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.codeborne</groupId>
+			<artifactId>phantomjsdriver</artifactId>
+			<version>1.2.1</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>net.anthavio</groupId>
+			<artifactId>phanbedder-2.1.1</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+
 
 		<!-- guava -->
 
